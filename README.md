@@ -115,7 +115,7 @@
 </details>
 🎥 시연 영상 Youtube : https://youtube.com
 
-📝 Github : https://github.com/wwinterr10
+📝 Github : [https://github.com/wwinterr10](https://github.com/wwinterr10/SpringBoot-Book/tree/main)
 
 ---
 
