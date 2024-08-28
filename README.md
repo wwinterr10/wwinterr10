@@ -20,7 +20,8 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwinterr10&layout=compact&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwinterr10&layout=compact&theme=material-palenight)
 ---
 #### 🏆 Baekjoon 🏆
 [![Solved.ac
@@ -28,8 +29,9 @@
 ---
 #### 📳 SNS 📳
 
-</div>
+
 ---
+</div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9135FFEB&width=435&lines=%F0%9F%8E%A8Portfolio%F0%9F%8E%A8)](https://git.io/typing-svg)
 ---
 ### 📧 Mail Service Project
