@@ -44,5 +44,5 @@
       
       - 세부 기능 : 
 </details>
-🎥 [시연 영상 Youtube](https://youtube.com) 
-📝 [Github](https://github.com/wwinterr10/) 
+🎥 ![시연 영상 Youtube](https://youtube.com) 
+📝 ![Github](https://github.com/wwinterr10/) 
