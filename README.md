@@ -1,10 +1,13 @@
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9135FFEB&width=435&lines=%F0%9F%93%9ATech+Stack%F0%9F%93%9A)](https://git.io/typing-svg)
+##### 💡 Languages & Skills💡
+##### 🛠 Tools 🛠
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwinterr10)](https://github.com/anuraghazra/github-readme-stats)
+---
+#### 🏆 Baekjoon 🏆
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwinterr10)](https://solved.ac/wwinterr10)
+---
+📳 SNS 📳
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9135FFEB&width=435&lines=%F0%9F%8E%A8Portfolio%F0%9F%8E%A8)](https://git.io/typing-svg)
 ---
