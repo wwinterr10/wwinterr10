@@ -1,3 +1,4 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9135FFEB&width=435&lines=%F0%9F%93%9ATech+Stack%F0%9F%93%9A)](https://git.io/typing-svg)
 ---
 #### 💡 Languages & Skills💡
@@ -19,7 +20,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwinterr10)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwinterr10&layout=compact&theme=tokyonight)
 ---
 #### 🏆 Baekjoon 🏆
 [![Solved.ac
@@ -27,6 +28,7 @@
 ---
 #### 📳 SNS 📳
 
+</div>
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9135FFEB&width=435&lines=%F0%9F%8E%A8Portfolio%F0%9F%8E%A8)](https://git.io/typing-svg)
 ---
@@ -44,5 +46,6 @@
       
       - 세부 기능 : 
 </details>
-🎥 ![시연 영상 Youtube](https://youtube.com) 
-📝 ![Github](https://github.com/wwinterr10/) 
+🎥 시연 영상 Youtube : https://youtube.com
+
+📝 Github : https://github.com/wwinterr10
