@@ -28,7 +28,8 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwinterr10)](https://solved.ac/wwinterr10)
 ---
 #### 📳 SNS 📳
-
+🅱️ 네이버 블로그 : https://blog.naver.com/winter_win10
+✨ 퀴즐렛 : https://quizlet.com/user/s80446165/sets
 
 ---
 </div>
