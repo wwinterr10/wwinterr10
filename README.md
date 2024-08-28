@@ -7,8 +7,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwinterr10)](https://solved.ac/wwinterr10)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9135FFEB&width=435&lines=%F0%9F%8E%A8Portfolio%F0%9F%8E%A8)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C484FFEB&width=435&lines=%F0%9F%93%A7Mail+Service+Project)](https://git.io/typing-svg)
+📧 Mail Service Project
 <details>
   <summary>
     웹 페이지에서 메일을 전송하고 수신할 수 있는 서비스를 구현
