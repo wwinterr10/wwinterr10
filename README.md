@@ -20,7 +20,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=material-palenight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwinterr10&show_icons=true&theme=material-palenight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwinterr10&layout=compact&theme=material-palenight)
 ---
 #### 🏆 Baekjoon 🏆
