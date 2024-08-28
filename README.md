@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9135FFEB&width=435&lines=%F0%9F%93%9ATech+Stack%F0%9F%93%9A)](https://git.io/typing-svg)
 ##### 💡 Languages & Skills💡
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
