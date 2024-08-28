@@ -33,6 +33,7 @@
 
 ---
 </div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9135FFEB&width=435&lines=%F0%9F%8E%A8Portfolio%F0%9F%8E%A8)](https://git.io/typing-svg)
 ---
 ### 📧 Mail Service Project
@@ -42,7 +43,7 @@
   </summary>
   
       - 프로젝트 기간 : 2024년
-  
+
       - 프로젝트 인원 : 개인
       
       - 사용 언어 및 개발 환경 : 
@@ -52,3 +53,22 @@
 🎥 시연 영상 Youtube : https://youtube.com
 
 📝 Github : https://github.com/wwinterr10
+
+### 📢 Voice Helper
+<details>
+  <summary>
+    청각장애인 및 의사소통에 어려움을 겪는 사람들을 위한 수어, 입모양, 음성, 텍스트 번역 프로그램
+  </summary>
+
+      - 프로젝트 기간 : 2024년 4월 ~
+
+      - 프로젝트 인원 : 4명
+
+      - 사용 언어 및 개발 환경 : Python, Spring, Pycham, Eclipse, Android Studio, Anaconda
+
+      - 세부 기능 : 카메라로 수어를 인식하고 텍스트로 변환
+                    입모양과 음성을 인식하고 텍스트로 변환
+                    텍스트를 음성으로 출력
+  
+</details>
+
