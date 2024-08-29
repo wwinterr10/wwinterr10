@@ -94,7 +94,7 @@
     - 세부 기능 : 동물병원 진료 예약, 예약 정보 조회 및 변경/취소
                   관리자로 로그인 시 강아지 진료기록 등록, 이전 진료기록 조회 및 삭제
 </details>
-🎥 시연 영상 Youtube : [https://youtube.com/Myungrang](https://www.youtube.com/watch?v=sLIfuF6pN5U)
+🎥 시연 영상 Youtube : https://youtu.be/sLIfuF6pN5U?si=fctliTyjKQaQ9nA9
 
 📝 Github : https://github.com/wwinterr10
 
