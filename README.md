@@ -80,6 +80,10 @@
 ---
 
 ### 🐶 Animal Hospital
+
+  ![화면 캡처 2024-08-29 215748](https://github.com/user-attachments/assets/97a936c1-bd6f-4dc8-9452-b64c659afe02)
+
+  
 <details>
   <summary>
     강아지 동물병원 소개 및 예약 서비스 웹 사이트
@@ -96,7 +100,7 @@
 </details>
 🎥 시연 영상 Youtube : https://youtu.be/sLIfuF6pN5U?si=fctliTyjKQaQ9nA9
 
-📝 Github : https://github.com/wwinterr10
+📝 Github : [https://github.com/wwinterr10/Animal_Hospital](https://github.com/wwinterr10/Myungrang-WEB/tree/main)
 
 ---
 
