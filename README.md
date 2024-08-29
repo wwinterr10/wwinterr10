@@ -116,7 +116,7 @@
 </details>
 🎥 시연 영상 Youtube : https://youtube.com
 
-📝 Github : [https://github.com/wwinterr10](https://github.com/wwinterr10/SpringBoot-Book/tree/main)
+📝 Github : [https://github.com/wwinterr10/Book_Library](https://github.com/wwinterr10/SpringBoot-Book/tree/main)
 
 ---
 
@@ -136,7 +136,7 @@
 </details>
 🎥 시연 영상 Youtube : https://youtube.com
 
-📝 Github : https://github.com/wwinterr10
+📝 Github : [https://github.com/wwinterr10/Sign_Language_Translator](https://github.com/wwinterr10/SignLanguageTranslator/tree/main)
 
 ---
 
