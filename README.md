@@ -23,7 +23,7 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwinterr10&show_icons=true&theme=material-palenight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwinterr10&layout=compact&theme=material-palenight&hide=jupyternotebook,glsl,typescript,astro,makefile,rust,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwinterr10&layout=compact&theme=material-palenight&hide=jupyternotebook,glsl,typescript,astro,makefile,rust,css,scss)
 ---
 
 #### 🏆 Baekjoon 🏆
@@ -40,6 +40,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9135FFEB&width=435&lines=%F0%9F%8E%A8Portfolio%F0%9F%8E%A8)](https://git.io/typing-svg)
 ---
 ### 📧 Genie Mail
+
+ ![화면 캡처 2024-08-30 144947](https://github.com/user-attachments/assets/f41f8dcc-784d-4964-a52c-a0f4506f6b16)
+
+
 <details>
   <summary>
     자바 콘솔에서 메일을 전송하고 수신할 수 있는 서비스를 구현
@@ -53,9 +57,9 @@
       
       - 세부 기능 : 회원가입, 로그인, ID/PW 찾기, 메일 쓰기, 받은 메일함, 보낸 메일함, 휴지통
 </details>
-🎥 시연 영상 Youtube : https://youtube.com
+🎥 시연 영상 Youtube : https://youtu.be/5cgca0Aj_ug?si=iRFlLHDbW5XFodDA
 
-📝 Github : https://github.com/wwinterr10
+📝 Github : [https://github.com/wwinterr10/Genie_Mail](https://github.com/wwinterr10/Genie_Mail)
 
 ---
 
@@ -121,7 +125,6 @@
 
     - 세부 기능 : 전체 도서 조회, 도서 1권 조회, 도서 추가, 도서 정보 수정
 </details>
-🎥 시연 영상 Youtube : https://youtube.com
 
 📝 Github : [https://github.com/wwinterr10/Book_Library](https://github.com/wwinterr10/SpringBoot-Book/tree/main)
 
