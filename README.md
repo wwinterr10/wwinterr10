@@ -42,16 +42,16 @@
 ### 📧 Genie Mail
 <details>
   <summary>
-    웹 페이지에서 메일을 전송하고 수신할 수 있는 서비스를 구현
+    자바 콘솔에서 메일을 전송하고 수신할 수 있는 서비스를 구현
   </summary>
   
-      - 프로젝트 기간 : 2024년
+      - 프로젝트 기간 : 2024년 4월 10일 ~ 2024년 4월 24일
 
       - 프로젝트 인원 : 개인
       
-      - 사용 언어 및 개발 환경 : JAVA, JavaScript, Eclipse, Tomcat
+      - 사용 언어 및 개발 환경 : JAVA, Eclipse
       
-      - 세부 기능 : 
+      - 세부 기능 : 회원가입, 로그인, ID/PW 찾기, 메일 쓰기, 받은 메일함, 보낸 메일함, 휴지통
 </details>
 🎥 시연 영상 Youtube : https://youtube.com
 
