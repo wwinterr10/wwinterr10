@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?color=0:e3e3fd,100:9e9ee2&text=Sejin's&npst&Github&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?color=0:e3e3fd,100:9e9ee2&text=Sejin's%Github&animation=twinkling&fontColor=660099)
   
 
 #### 💡 Languages & Skills💡
