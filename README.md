@@ -22,7 +22,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwinterr10&show_icons=true&theme=material-palenight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwinterr10&layout=compact&theme=material-palenight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyternotebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyternotebook,glsl,typescript)
 ---
 #### 🏆 Baekjoon 🏆
 [![Solved.ac
