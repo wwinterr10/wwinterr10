@@ -1,4 +1,6 @@
 <div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?color=0:e3e3fd,100:9e9ee2&text=capsule_render&animation=twinkling)
   
 
 #### 💡 Languages & Skills💡
