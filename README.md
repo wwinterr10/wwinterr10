@@ -21,7 +21,7 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wwinterr10&show_icons=true&theme=material-palenight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwinterr10&layout=compact&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwinterr10&layout=compact&theme=material-palenight&hide=jupyternotebook,glsl,typescript,astro,makefile,rust)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwinterr10&hide=jupyternotebook,glsl,typescript,astro,makefile,rust)
 ---
 #### 🏆 Baekjoon 🏆
