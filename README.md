@@ -84,7 +84,7 @@
                     텍스트를 음성으로 출력
   
 </details>
-🎥 시연 영상 Youtube : [https://youtube.com](https://www.youtube.com/watch?v=UvDqLpLZOpg)
+🎥 시연 영상 Youtube : https://www.youtube.com/watch?v=UvDqLpLZOpg
 
 📝 Github : https://github.com/wwinterr10
 
