@@ -71,13 +71,14 @@
 <details>
   <summary>
     청각장애인 및 의사소통에 어려움을 겪는 사람들을 위한 수어, 입모양, 음성, 텍스트 번역 프로그램
+    2024년 프로보노 공모전 1차 서면평가 결과, 입선으로 선정
   </summary>
 
       - 프로젝트 기간 : 2024년 4월 ~ 진행중
 
       - 프로젝트 인원 : 4명
 
-      - 사용 언어 및 개발 환경 : Python, Spring, Pycharm, Eclipse, Android Studio, Anaconda
+      - 사용 언어 및 개발 환경 : Python, Java, SpringBoot, Pycharm, Eclipse, Android Studio, Anaconda, Jupyter Notebook
 
       - 세부 기능 : 카메라로 수어를 인식하고 텍스트로 변환
                     입모양과 음성을 인식하고 텍스트로 변환
